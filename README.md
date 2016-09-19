@@ -1,4 +1,4 @@
-# The RMS Titanic : Behind the Numbers of Mankind's Greatest Maritime Disaster
+# The RMS Titanic : The Numbers Behind the World's Greatest Maritime Disaster
 
 The sinking of the RMS Titanic is one of the most infamous shipwrecks in history. On April 15, 1912, during her maiden voyage, the Titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew. 
 
